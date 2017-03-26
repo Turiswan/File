@@ -1,5 +1,5 @@
 /**
- * Advanced Blogger TOC Script by Taufik Nurrohman
+ * Advanced Blogger TOC Script by Turiswan
  * URL: https://plus.google.com/+Turiswan/about
  */
 var tocConfig = {
